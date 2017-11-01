@@ -1,0 +1,11 @@
+name: noGov Base Theme
+type: theme
+description: Base theme for all projects within this organization
+package: noGov
+core: 8.x
+libraries:
+  - nogov_theme/global-styling
+ 
+base theme: classy
+#Using Classy as a base theme https://www.drupal.org/theme-guide/8/classy
+
